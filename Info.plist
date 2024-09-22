@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>/////</string> <!-- Nom de l'application -->
+    <key>CFBundleIdentifier</key>
+    <string>/////</string> <!-- Identifiant unique de l'application -->
+    <key>CFBundleVersion</key>
+    <string>/////</string> <!-- Version de l'application -->
+    <key>CFBundlePackageType</key>
+    <string>/////</string> <!-- Type de package -->
+    <key>CFBundleIconFile</key>
+    <string>/////</string>  <!-- Nom de l'icône de l'application -->
+</dict>
+</plist>
